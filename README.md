@@ -1,9 +1,9 @@
 Admin 
-Email : ADMIN
+user: ADMIN
 Password : ADMINADMIN
 
 USER
-Email : USER
+user : USER
 Password : USERUSER
 
 Databse Version : 5.0.4
